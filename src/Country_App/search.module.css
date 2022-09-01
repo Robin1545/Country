@@ -1,0 +1,12 @@
+.div {
+  text-align: center;
+}
+.input {
+  padding: 0.6rem;
+  border-radius: 0.6rem;
+  width: 12rem;
+  font-size: 1.2rem;
+}
+input:focus {
+  background-color: bisque;
+}
